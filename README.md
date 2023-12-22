@@ -4,5 +4,6 @@
 <h3 align="center"></h3>
 <h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/uchithma-senevirathne-4539912a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Uchithma Senevirathne" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_uchi._?igsh=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Uchithma Senevirathne" height="30" width="40" /></a>
 </p>
