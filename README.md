@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+I'm+Uchithma+Senevirathne;IJSE-+Institute+of+Software+Engineering;&color=white)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi.+I'm+Uchithma+Senevirathne;IJSE-+Institute+of+Software+Engineering;&color=white)](https://git.io/typing-svg)
 
 <h1 align="center">A SOFTWARE ENGINEER FROM SRI LANKA</h1>
 <h3 align="center"></h3>
