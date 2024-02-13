@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uchithma+Senevirathne!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka </h3>
+<h3 align="center">A passionate fullstack developer 👩‍💻 from Sri Lanka</h3>
 <br>
 
 <div align="center">
@@ -28,19 +28,11 @@
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
 
-<h2 align="center">⚒️ Tech-Stack ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
 <div align="center">
-
-| Title | Icon |
-| ------ | ------ |
-| IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
-| Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
-| Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
-| UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=arduino,appwrite,firebase,discord,git,github,maven,postman,powershell,bash" /> |
-| favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,materialui,js,jquery,ts,express,nodejs,mongodb" /> |
-                                                                
+    <img src="https://skillicons.dev/icons?i=java,idea,react,vscode,html,css,javascript,spring,hibernate,mongodb" />
+    <img src="https://skillicons.dev/icons?i=nodejs,bootstrap,github,git,mysql,maven,powershell,bash,figma,linux" /><br>
 </div>
 <br>
 
@@ -56,9 +48,7 @@
 <br>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
-
 <br>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <br>
@@ -66,3 +56,22 @@
   
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=UchithmaSenevirathne&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+
+<br>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+
+<br>
+
+<h5 align="center">
+𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 🤝
+𝙷𝚊𝚟𝚎 𝚊 𝚠𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 𝚘𝚛 nice 𝚍𝚊𝚢 ! 
+</h5>
+<div align="center">
+  
+![repo size](https://img.shields.io/github/repo-size/UchithmaSenevirathne/UchithmaSenevirathne?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
+![GitHub stars](https://img.shields.io/github/stars/UchithmaSenevirathne/UchithmaSenevirathne?&labelColor=black&color=f7b731&style=for-the-badge)
+![GitHub LastCommit](https://img.shields.io/github/last-commit/UchithmaSenevirathne/UchithmaSenevirathne?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
