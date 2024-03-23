@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=UchithmaSenevirathne.UchithmaSenevirathne" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Uchithma+Senevirathne;" />
-</h1>
+<h2 align="center">Hey There 👋🏼 I'm Uchithma Senevirathne</h2>
+<br>
 
 <h3 align="center">A passionate fullstack developer 👩‍💻 from Sri Lanka</h3>
 <br>
