@@ -30,8 +30,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,idea,bootstrap,vscode,html,css,javascript,nodejs,hibernate,tailwind" />
-    <img src="https://skillicons.dev/icons?i=spring,react,github,git,mysql,maven,powershell,bash,figma,linux,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=java,idea,bootstrap,vscode,html,css,javascript,nodejs,hibernate,tailwind,angular" />
+    <img src="https://skillicons.dev/icons?i=spring,react,github,git,mysql,maven,powershell,bash,figma,linux,mongodb,typescript" /><br>
 </div>
 <br>
 
