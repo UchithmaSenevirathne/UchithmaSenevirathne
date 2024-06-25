@@ -51,11 +51,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <br>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=UchithmaSenevirathne&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=UchithmaSenevirathne&theme=2077" alt="streak stats"/>
   
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=UchithmaSenevirathne&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UchithmaSenevirathne&theme=2077" alt="readme stats" />
 </div>
-
 <br>
 
 ![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
