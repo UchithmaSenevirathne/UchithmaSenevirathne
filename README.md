@@ -34,6 +34,16 @@
     <img src="https://skillicons.dev/icons?i=spring,react,github,git,mysql,maven,powershell,bash,figma,linux,mongodb,typescript" /><br>
 </div>
 <br>
+
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/LahiruHarshana/LahiruHarshana/assets/124744833/98cbe673-458d-4b83-ba60-41ea52df144b)
+
+<p align="center">
+  <a href="https://github.com/UchithmaSenevirathne">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UchithmaSenevirathne&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UchithmaSenevirathne&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
+  </a>
+</p>
+<br>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
