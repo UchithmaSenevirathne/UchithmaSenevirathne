@@ -39,8 +39,8 @@
 
 <p align="center">
   <a href="https://github.com/UchithmaSenevirathne">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UchithmaSenevirathne&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=000000&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UchithmaSenevirathne&layout=compact&langs_count=8&theme=default&bg_color=000000&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=UchithmaSenevirathne&show_icons=true&theme=default&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=UchithmaSenevirathne&layout=compact&langs_count=8&theme=default&bg_color=0D1117&title_color=2b7cd9&icon_color=ffd014&text_color=ffffff"/>
   </a>
 </p>
 <br>
